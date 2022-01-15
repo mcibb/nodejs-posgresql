@@ -7,7 +7,7 @@ CREATE TABLE quote (
 );
 
 INSERT INTO quote (id, quote, author) VALUES 
-(1, 'There are onlyyyy two kinds of languages: the ones people complain about and the ones nobody uses.', 'Bjarne Stroustrup'), 
+(1, 'There are only two kinds of languages: the ones people complain about and the ones nobody uses.', 'Bjarne Stroustrup'), 
 (2, 'Any fool can write code that a computer can understand. Good programmers write code that humans can understand.', 'Martin Fowler'), 
 (3, 'First, solve the problem. Then, write the code.', 'John Johnson'), 
 (4, 'Java is to JavaScript what car is to Carpet.', 'Chris Heilmann'), 
